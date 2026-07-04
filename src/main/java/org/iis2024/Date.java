@@ -51,6 +51,7 @@ public class Date {
   /**
    * Constructs a Date object representing a specific day, month, and year.
    *
+<<<<<<< HEAD
    * @param dia The day of the month (1-31).
    * @param mes The month of the year (1-12).
    * @param año The year (should ideally be within the valid range of 1900 to 2050 for validation
@@ -62,7 +63,9 @@ public class Date {
     this.day = dia;
     this.month = mes;
     this.year = año;
+
   }
+
 
 
   /**
